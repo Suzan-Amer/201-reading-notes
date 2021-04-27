@@ -30,7 +30,7 @@ And I wanted to learn a new thing, which is the web development
 | read1  | [link](https://suzan-amer.github.io/201-reading-notes/class-01)  |   
 | read2  | [link](https://suzan-amer.github.io/201-reading-notes/class-02)  |      
 | read3  | [link](https://suzan-amer.github.io/201-reading-notes/class-03)  |  
-| read4  | [link](https://suzan-amer.github.io/reading-note/ )  |   
+| read4  | [link](https://suzan-amer.github.io/201-reading-notes/class-04 )  |   
 | read5  | [link](https://suzan-amer.github.io/reading-note/ )  |     
 | read6  | [link]( https://suzan-amer.github.io/reading-note/) | 
 | read7  | [link](https://suzan-amer.github.io/reading-note/)  |   
