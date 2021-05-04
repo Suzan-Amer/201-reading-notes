@@ -35,5 +35,5 @@ And I wanted to learn a new thing, which is the web development
 | read6  | [link](https://suzan-amer.github.io/201-reading-notes/class-06)  | 
 | read7  | [link](https://suzan-amer.github.io/201-reading-notes/class-07)  |   
 | read8  | [link](https://suzan-amer.github.io/201-reading-notes/class-08)  |     
-| read9  | [link]()  | 
+| read9  | [link](https://suzan-amer.github.io/201-reading-notes/class-09)  | 
 | read10 | [link]()  |   
